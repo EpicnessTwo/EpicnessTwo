@@ -5,7 +5,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epicnesstwo&show_icons=true&locale=en&theme=tokyonight&hide_border=true&layout=compact" alt="epicnesstwo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=epicnesstwo&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="epicnesstwo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=epicnesstwo&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true" alt="epicnesstwo" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=epicnesstwo&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="epicnesstwo" /></a> </p>
 
