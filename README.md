@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=epicnesstwo&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="epicnesstwo" /></a> </p>
 
-- 💻 I’m currently working for [LogicBarn](https://logicbarn.com)
+- 💻 I’m currently working for [SynergiTech](https://synergi.tech)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel**, **Vue** and **Golang**
 
 - 💖 I run an awesome community, called [Land of Kittens](https://landofkittens.community)
 
